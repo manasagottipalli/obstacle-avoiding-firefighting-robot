@@ -83,20 +83,22 @@ The firefighting feature did not work reliably during testing. Fire detection an
 
 ### Breadboard Prototype
 
-![Breadboard Prototype](screenshots/01-breadboard-prototype.jpeg)
+<img src="screenshots/01-breadboard-prototype.jpeg" alt="Breadboard Prototype" width="450">
 
 ### Mid Assembly
 
-![Mid Assembly](screenshots/02-mid-assembly.jpeg)
+<img src="screenshots/02-mid-assembly.jpeg" alt="Mid Assembly" width="450">
 
 ### Final Robot
 
-![Final Robot](screenshots/03-final-robot.jpeg)
+<img src="screenshots/03-final-robot.jpeg" alt="Final Robot" width="450">
 
 ## Project Context
 
 **Workshop:** Arduino Explorer Mastery Workshop
+
 **Department:** CSE-AI&ML
+
 **Institution:** AITAM, Tekkali
 
 ## My Role
